@@ -25,8 +25,8 @@ Sou um desenvolvedor full-stack, construindo minha versão do mundo digital pass
 </div>
 
 - **JavaScript** (ES6+, TypeScript)
-- **React** (Hooks, Context API)
-- **Angular** (Components, RxJS)
+- **React** 
+- **Angular** (Components)
 
 ### 📌 Back-end
 <div>
